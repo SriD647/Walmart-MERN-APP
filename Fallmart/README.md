@@ -12,10 +12,11 @@ A GA DonnaFrances cohort creation.
 
 ___
 ## Table of Contents
-- [Deployed Link]()
+- [Deployed Link](fallmart.graehm.me)
 - [Overview](#overview)
 - [Trello Board](https://trello.com/b/UEHNvPzS/walmart)
 - [Pitch Dec](https://docs.google.com/presentation/d/1zLbUtjdnLn8FDhdMuW9853M0LjZK9JoiMzNT_CNWAtQ/edit#slide=id.p)
+- [Project Planning Doc](https://docs.google.com/document/d/1hgBN9EicBrrDl1_ha_jUUNqf2T1wqtRs69fWTLwznjU/edit#heading=h.k1sv9hcat1s)
 - [Features](#features)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -114,7 +115,7 @@ Max Ohnenyi,
 Sri Rao 
 
 ## Notes
-Some notable future improvement is the relationship between the seed.js and modals. We found a cheat and hardcoded the products imergy together in the seed. A best practice approach would be to loop over the products. 
+Some notable future improvement is the relationship between the seed.js and modals. We found a cheat and hardcoded the products imergy together in the seed. A best practice approach would be to loop over the products. Also, given more time we would have liked to make each index page tile a component that we could than attach a department route too making the tiles clickable and redirect the user to the that respective department. 
 
 
 
