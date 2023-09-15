@@ -116,8 +116,3 @@ Sri Rao
 
 ## Notes
 Some notable future improvement is the relationship between the seed.js and modals. We found a cheat and hardcoded the products imergy together in the seed. A best practice approach would be to loop over the products. Also, given more time we would have liked to make each index page tile a component that we could than attach a department route too making the tiles clickable and redirect the user to the that respective department. 
-
-
-
-
-
